@@ -1,0 +1,18 @@
+.Sider .Sider-layout {
+  min-height: 690px;
+}
+.site-layout-background {
+  position: relative;
+}
+.header-avatar {
+  position: absolute;
+  right: 70px;
+  bottom: 5px;
+}
+.header-username {
+  position: absolute;
+  right: 18px;
+  bottom: -5px;
+  color: #40A9FF;
+  font-size: 16px;
+}

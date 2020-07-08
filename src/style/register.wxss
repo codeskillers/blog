@@ -1,0 +1,15 @@
+.reg-form {
+  background: url('http://hbimg.b0.upaiyun.com/5600738d69af483f2f52754d65dc5b1e85dc01ab13917-J3QBCz_fw658');
+  background-size: cover;
+  min-height: 697px;
+}
+.reg-form .ant-form {
+  width: 500px;
+  margin: auto;
+  position: relative;
+  top: 160px;
+  left: 30px;
+}
+.reg-form .ant-form .to-register {
+  color: #1890ff;
+}
